@@ -12,8 +12,8 @@ int main()
     
     printf("factorial = %d, prime? %d, palindrome? %d vsum = %d \n",fact_val,prime_val,palind_val,sum);
 
-    char string1[10] = "potatoes";
-    char string2[10] = "potaters";
+    char string1[10] = "vikatakavi";
+    char string2[10] = "vikatakevi";
     char stringcopy[10];
     char stringcatenate[30];
     int stringlength = mystrlen(string1);
